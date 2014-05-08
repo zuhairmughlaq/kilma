@@ -1,0 +1,11 @@
+{
+  "name": "kilma",
+  "version": "0.0.0",
+  "description": "markdown blogging platform using Node.js and CouchDB",
+  "main": "index.js",
+  "author": "ZuhairAbdulmahdi",
+  "dependencies": {
+    "express": "*",
+    "cradle": "*"
+  }
+}
